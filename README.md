@@ -2,8 +2,8 @@
 
 #### Here's what I currently spend my free time doing
 - 🦿 Coding the movement of ODrive powered robots
-- 🤖 Learning about Artificial Intelligence and Machine Learning models
-- 👨‍🏫 Host office hours to help students new to prograaming understand concepts
+- 🤖 Learning about Artificial Intelligence and Deep Learning Machine Learning models
+- 👨‍🏫 Host office hours to help students new to programming understand object-oriented programming concpets
 
 
 #### Favorite Languages and Tools
