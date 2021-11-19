@@ -1,4 +1,4 @@
-### Hi I am Matthew! I am interested in computer vision and social change through artifical intelligence.
+### Hi I am Matthew! I am interested in coding for social change and the applications of artifical intelligence.
 
 #### Here's what I currently spend my free time doing
 - 🦿 Coding the movement of ODrive powered robots
